@@ -1,4 +1,11 @@
-[2451] cancellation policy: max 2 days
+[2451] cancellation policy: 3 days
 
-onboarding redesign
-	get direct offers: 3 days, needs api for about me and video
+onboarding redesign (tenant)
+	get direct offers: 5 days, needs api for about me and video
+	house details: 4 days, needs api for about me and video
+	book now: 4 days, needs api for about me and video
+	request details: 4 days, needs api for about me and video
+	visit/book: bug on bigger screens, container goes to left
+		flex direction column @media screen min height 881px
+
+

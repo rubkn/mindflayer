@@ -1,0 +1,9 @@
+World has been in drought for XX years, (maybe The Drought was a consequence of the Defiance) people have yet to see another winter. Rain pours rarely, making it hard to grow crops, people developed a fake kind of corn called Masi/Maisi that serves as a daily meal but it tastes horribly; 
+
+The Death's Touch: a necromancer plague, works like a normal zombie apocalypse but incurable by magic. Killing the Necromancer stops it, or waiting it out will make the zombies die out; 
+
+The thing that caused the drought - a really powerful wizard that **WISHED** (wish spell) (who?? Vecna?? OMG!!) that he would be the most powerful being in the universe - he managed to actually kill some gods, and the ones that were starting to die out got together and enslaved him in *xxxx*. The drought is happening because the gods that are alive are not strong enough to stop climate changes/or have no control over the sun/or have no control over the specific area of the world;
+
+Ideia to incorporate the session/campaign we are having right now: make it so that the history/world we’re playing in was part of this world but before the Defiance, that way we can revisit campaigns that already exist in the sword coast but still have it be in our world. And we could maybe even tie the characters we create in the campaign to our world and make them bigger npc’s - example: Loralai's and Ikvan’s adventure happened in the year 651bE (before the Defiance), and in the year 61aE (after the Defiance) there were sights of an evil lady that carries a skull (uuuuuuh spooky ihih); 
+
+Could have been some kind of war between gods or between various/two strong lich’s and the real gods interfered and lock them away, and because they’re locked away their magic is influencing the world (drought) - this could be a good plot for an adventure like freeing the lich’s or maybe someone is trying to free the lich’s/lich and the adventurers are trying to stop it;

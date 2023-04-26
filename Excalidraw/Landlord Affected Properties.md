@@ -28,6 +28,11 @@ property info ^DXEdXhK3
 
 select ^dYNtTECc
 
+already getting all the properties from the 
+property services, before was getting but mutating
+into a different object, now it returns all the 
+info to use it in the modal ^IAAmKDu0
+
 %%
 # Drawing
 ```json
@@ -131,7 +136,7 @@ select ^dYNtTECc
 		{
 			"id": "FdLftGol",
 			"type": "text",
-			"x": -314.1219177246094,
+			"x": -314.24574340402876,
 			"y": -232.0887451171875,
 			"width": 219.9797821044922,
 			"height": 25,
@@ -146,11 +151,16 @@ select ^dYNtTECc
 			"groupIds": [],
 			"roundness": null,
 			"seed": 910538613,
-			"version": 89,
-			"versionNonce": 128063125,
+			"version": 91,
+			"versionNonce": 1751120187,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1682510056554,
+			"boundElements": [
+				{
+					"id": "IqpGtn-b3ecdwjT4hJx3N",
+					"type": "arrow"
+				}
+			],
+			"updated": 1682510923549,
 			"link": null,
 			"locked": false,
 			"text": "17 properties affected",
@@ -166,8 +176,8 @@ select ^dYNtTECc
 		{
 			"id": "kFC5iwTpYzQ6pNtEuTcQ5",
 			"type": "arrow",
-			"x": 107.85678168374156,
-			"y": -197.95178830022985,
+			"x": 107.73366324285294,
+			"y": -197.8286698593413,
 			"width": 16.039777031263725,
 			"height": 102.20495436736519,
 			"angle": 0,
@@ -183,11 +193,11 @@ select ^dYNtTECc
 				"type": 2
 			},
 			"seed": 1143268373,
-			"version": 211,
-			"versionNonce": 99428981,
+			"version": 216,
+			"versionNonce": 1031245589,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1682510348718,
+			"updated": 1682510945055,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -203,16 +213,16 @@ select ^dYNtTECc
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "4PuHGMSv",
-				"gap": 9.025903350160778,
-				"focus": -0.5690267084422973
+				"focus": -0.5670835182486548,
+				"gap": 9.149021791049336
 			},
 			"endBinding": {
 				"elementId": "veojo1TuYTYbGkBZ9MH3w",
-				"gap": 10.537056100833427,
-				"focus": 0.7690631319468556
+				"focus": 0.7685936879848312,
+				"gap": 10.41393765994485
 			},
 			"startArrowhead": null,
-			"endArrowhead": "arrow"
+			"endArrowhead": "triangle"
 		},
 		{
 			"id": "veojo1TuYTYbGkBZ9MH3w",
@@ -630,6 +640,95 @@ select ^dYNtTECc
 			"updated": 1682510493777,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "IqpGtn-b3ecdwjT4hJx3N",
+			"type": "arrow",
+			"x": -171.0737402354167,
+			"y": -238.20389590608482,
+			"width": 131.64284583591765,
+			"height": 223.53193173342476,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 1027166261,
+			"version": 46,
+			"versionNonce": 1767391893,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1682510995508,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					131.64284583591765,
+					-223.53193173342476
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "FdLftGol",
+				"focus": 0.1893393664518132,
+				"gap": 6.115150788897324
+			},
+			"endBinding": {
+				"elementId": "IAAmKDu0",
+				"focus": 0.4674517284656115,
+				"gap": 11.893033056064496
+			},
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
+		},
+		{
+			"id": "IAAmKDu0",
+			"type": "text",
+			"x": -123.27968012402624,
+			"y": -573.6288606955741,
+			"width": 503.4795227050781,
+			"height": 100,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 2,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": null,
+			"seed": 686262619,
+			"version": 286,
+			"versionNonce": 691182907,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "IqpGtn-b3ecdwjT4hJx3N",
+					"type": "arrow"
+				}
+			],
+			"updated": 1682510995508,
+			"link": null,
+			"locked": false,
+			"text": "already getting all the properties from the \nproperty services, before was getting but mutating\ninto a different object, now it returns all the \ninfo to use it in the modal",
+			"rawText": "already getting all the properties from the \nproperty services, before was getting but mutating\ninto a different object, now it returns all the \ninfo to use it in the modal",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "already getting all the properties from the \nproperty services, before was getting but mutating\ninto a different object, now it returns all the \ninfo to use it in the modal",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -646,11 +745,11 @@ select ^dYNtTECc
 		"currentItemFontSize": 20,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "arrow",
-		"scrollX": 487.5,
-		"scrollY": 456.390625,
+		"currentItemEndArrowhead": "triangle",
+		"scrollX": 490.05670578975077,
+		"scrollY": 588.475742361245,
 		"zoom": {
-			"value": 1
+			"value": 1.0356079924822215
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,

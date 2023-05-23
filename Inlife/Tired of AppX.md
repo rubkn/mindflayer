@@ -24,6 +24,8 @@ Isto só mostra a pessoa que ele é e o traço de personalidade péssimo que tem
 
 As coisas não estão a correr como ele quer e eu é que levo por tabela. Lindo. Eu sempre senti que ele não tinha ido com a minha cara, desde o ínicio. Aliás, ele nem queria um Frontend developer interno da Inlife. That pretty much sums it up.
 
+Até me fascina ele não ter reclamado nada do Jorge ter usado Typescript para as integrations, então afinal? Não há um período de adaptação e depois não fica mais difícil para o resto da equipa?
+
 Se isto for tudo o que ele tem a reclamar do meu código, estou muito bem. Nomenclatura dos estilos e usar svgs em componentes vs imagens... Wow. Não vou alimentar, nunca, qualquer tipo de argumento. Vou fazer o que me é pedido/sugerido, meramente para manter o bom ambiente.
 
 Para quem quer largar a Inlife, ainda está muito agarrado à forma como se vai fazer as coisas. Afinal é para evoluir ou não?

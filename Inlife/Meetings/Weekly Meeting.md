@@ -9,3 +9,6 @@ Laura finished cancellation task. Explained the issue with elastic and the block
 **2023-06-19**
 Update do meu lado é máximo até final do mês acabar availabilities. Klarna está no backend, falta atualizar o frontend. Atualizar o footer no wordpress e eu no `rent`. 
 *Handover* do projeto da app correu um bocado mal, a empresa não queria entregar porque tinham medo que eles copiassem o código todo e depois não pagassem o resto. Então pagaram tudo e vai ser dado o *handover*. Features novas para o projeto do Landlord vai começar esta semana. Estagiárias entrarão para brainstorm. 
+
+**2023-06-26**
+Conversa sobre o que a empresa que está a desenvolver a app precisa, calendário, notificações, histórico das faturas, cancelamentos, novas features nas visitas. Timezones nas reservas não estão a ser tidas em conta do lado do senhorio, só a timezone do tenant.

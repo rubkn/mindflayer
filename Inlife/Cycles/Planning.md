@@ -1,2 +1,5 @@
 2023-10-30
-Talks about the errors regarding the payments and domain migration.
+- talks about the errors regarding the payments and domain migration
+- desapontado porque nenhum issue ficou done dentro do ciclo
+- build para staging hoje, supostamente
+

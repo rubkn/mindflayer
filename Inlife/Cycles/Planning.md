@@ -4,5 +4,7 @@
 - build para staging hoje, supostamente
 
 2023-11-14
-- 
+- hot deal, featured listing, to end until friday - map should be hard, according to zé
+- jorge still on the app a little, will integrate zoho desk
+- zé SEO finishes, friendly urls, to start on the integrations clones and stuff
 

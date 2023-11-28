@@ -8,3 +8,5 @@
 - jorge still on the app a little, will integrate zoho desk
 - zé SEO finishes, friendly urls, to start on the integrations clones and stuff
 
+2023-11-28
+- 

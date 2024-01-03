@@ -6,3 +6,6 @@ www.homming.com
 Tentaram AppSheet da Google mas era muito limitado;
 
 Análise da próxima semana, ver como é que módulo pode ser dinâmico e reutilizado, mantendo a *navbar* a mesma, por exemplo. Como definir template. Login. Reunir quarta-feira dia 3 de Janeiro, ver dificuldades. 8 horas semanais. 
+
+2024-01-03
+Sem depender do backend, é possível fazer modificações de estilos somente em frontend com pequenos *if blocks*? Parte da navegação, links para cada componente, navbar. Customização ao tipo e tamanhos de letra. Header diferente, mudar de página muda o estilo do link, tamanhos e tipos de letra, duas páginas a funcionar com 2 páginas a funcionar.

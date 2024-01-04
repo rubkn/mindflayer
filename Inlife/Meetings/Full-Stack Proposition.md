@@ -1,2 +1,3 @@
 - Congratular nova posição de General Manager
-- 
+- Como está o processo do novo full-stack
+- Ouvi falar da proposta para o Miguel

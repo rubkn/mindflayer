@@ -9,3 +9,5 @@ Análise da próxima semana, ver como é que módulo pode ser dinâmico e reutil
 
 2024-01-03
 Sem depender do backend, é possível fazer modificações de estilos somente em frontend com pequenos *if blocks*? Parte da navegação, links para cada componente, navbar. Customização ao tipo e tamanhos de letra. Header diferente, mudar de página muda o estilo do link, tamanhos e tipos de letra, duas páginas a funcionar com 2 páginas a funcionar.
+
+2024-01-11

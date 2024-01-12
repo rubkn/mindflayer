@@ -14,6 +14,10 @@ Sem depender do backend, é possível fazer modificações de estilos somente em
 Pagination on tables: done;
 Navigation links on header: done;
 Two different pages working: done;
-Header diferente: most likely can't do; 
+Header diferente: most likely can't do;
 Diferente links consoante a página: most likely can't do; 
 Reusable components don't provide that much configuration.
+
+2024-01-12
+Look and feel dos links do header consoante a página em que estamos, a negrito.
+Mudar logotipo e header.

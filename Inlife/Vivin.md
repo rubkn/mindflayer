@@ -18,6 +18,6 @@ Header diferente: most likely can't do;
 Diferente links consoante a página: most likely can't do; 
 Reusable components don't provide that much configuration.
 
-2024-01-12
+2024-01-12 **2 hours**
 Look and feel dos links do header consoante a página em que estamos, a negrito.
-Mudar logotipo e header.
+Mudar logotipo e header. Public view, sem precisar de login.

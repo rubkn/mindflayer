@@ -21,3 +21,7 @@ Reusable components don't provide that much configuration.
 2024-01-12 **2 hours**
 Look and feel dos links do header consoante a página em que estamos, a negrito.
 Mudar logotipo e header. Public view, sem precisar de login.
+
+2024-01-23
+Injetar variáveis no CSS.
+Botão de Header event handler para outra app, ficheiro diferente.

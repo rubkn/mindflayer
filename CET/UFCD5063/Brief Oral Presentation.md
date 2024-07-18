@@ -1,0 +1,2 @@
+Good morning, my classmate's name is Roberta, she was born July 7th of 1984, 40 years old, living in Montijo, graduation in public administration in brazil but its not compatible ion portugal. She has worked in brazil but never in portugal, she considers the english level a 3. In her free time she spends a lot of time with her family, watching TV, hang out with friends, and she likes to study Italian. Persistence.
+

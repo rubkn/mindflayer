@@ -1,0 +1,2 @@
+Good morning, I'm gonna talk a little bit about my classmate Roberta, she was born July 7th of 1984, she is 40 years old. She is currently living in Montijo, she has a graduation in public administration in Brasil but its not compatible here in Portugal. She has worked in Brasil but never in Portugal, she considers her english level a 3. She has 3 children so in her free time she spends a lot of time with her family, watching TV, but she also likes to hang out with friends, and she likes to study Italian. In one word, she describes herself as Persistent.
+

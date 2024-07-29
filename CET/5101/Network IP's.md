@@ -1,1 +1,1 @@
-![[Pasted image 20240722083358.png]]
+![[network-ips.png]]
